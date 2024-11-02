@@ -1,0 +1,6 @@
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+mingw32-gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+mingw32-gcc.exe: fatal error: no input files
+compilation terminated.
